@@ -1,0 +1,11 @@
+.vscode/
+*.o
+*.m
+*.zip
+test
+steg-decode
+primes
+primes-i
+*.txt
+*.a
+*.so
